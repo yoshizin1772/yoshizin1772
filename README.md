@@ -1,57 +1,22 @@
 # yoshizin
 
 **`Futuro Desenvolvedor FullStack`**
-
-interessado em programação desde pequeno, estudo para ser desenvolvedor FullStack e tenho interesse em CyberSecurity, atualmente cursando o ensino medio
-
+```lua
+yoshizin
+▔▔▔▔▔▔▔▔▔▔
+OS: Windows 11 x64
+Shell: Windows Terminal
+Location: Brasil, SP
+Learning: Javascript and NodeJS
+Languages: Portuguese, spanish and english
+Hobbies: Play Games, Sleep, Programming.
+```
+### Me interesso por FullStack e CyberSecurity, atualmente estudando JS e NodeJS, futuramente pretendo aprender C e C++ e melhorar meu codigo em Python
 ---
-
 ### Linguagens e Ferramentas
 
+[![Linguagens2](https://skillicons.dev/icons?i=html,css,js,react,nodejs,mysql)](https://skillicons.dev)
 
-<img 
-    aling='left'
-    alt='html'
-    width="45px"
-    style="padding-rigth: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img
-    aling='left'
-    alt='css'
-    width="45px"
-    style="padding-rigth: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
-/>
-<img
-    aling='left'
-    alt='JS'
-    width="45px"
-    style="padding-rigth: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    aling='left'
-    alt='React'
-    width="45px"
-    style="padding-rigth: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img
-    aling='left'
-    alt='Node.JS'
-    width="45px"
-    style="padding-rigth: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
-/>  
-
-          
-
-          
-
-          
-          
-
-          
-          
-          
+---
+### Social Space
+[![discord](https://github.com/user-attachments/assets/8faefdf7-f740-402b-82fc-b64e405f27e8)]("https://discord.gg/mYN3V2kZPR")
