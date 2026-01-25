@@ -1,9 +1,8 @@
 # yoshizin
 
-**`Futuro Desenvolvedor FullStack`**
 ```lua
-yoshizin
-▔▔▔▔▔▔▔▔▔▔
+yoshizin infos
+▔▔▔▔▔▔▔▔▔▔▔▔▔
 OS: Windows 11 x64
 Shell: Windows Terminal
 Location: Brasil, SP
@@ -11,7 +10,7 @@ Learning: Javascript and NodeJS
 Languages: Portuguese, spanish and english
 Hobbies: Play Games, Sleep, Programming.
 ```
-### Me interesso por FullStack e CyberSecurity, atualmente estudando JS e NodeJS, futuramente pretendo aprender C e C++ e melhorar meu codigo em Python
+### Me interesso por Desenvolvimento FullStack e CyberSecurity, atualmente estudando JS e NodeJS, futuramente pretendo aprender C e C++ e melhorar meu codigo em Python
 ---
 ### Linguagens e Ferramentas
 
