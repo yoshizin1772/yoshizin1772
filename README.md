@@ -15,7 +15,8 @@ Hobbies: Play Games, Sleep, Programming.
 ---
 ### Linguagens e Ferramentas
 
-[![Linguagens2](https://skillicons.dev/icons?i=html,css,js,python,react,nodejs,mysql)](https://skillicons.dev)
+[![Linguagens1](https://skillicons.dev/icons?i=html,css,js,typescript,python,react,nodejs,mysql)](https://skillicons.dev) 
+[![Linguagens2](https://skillicons.dev/icons?i=git,github,vscode,windows,docker,discord)](https://skillicons.dev)
 
 ---
 ### Social Space
