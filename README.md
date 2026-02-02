@@ -16,10 +16,10 @@ Hobbies: Play Games, Sleep, Programming.
 ### Linguagens e Ferramentas
 
 [![Linguagens1](https://skillicons.dev/icons?i=html,css,js,typescript,python,react,nodejs,mysql)](https://skillicons.dev) 
-[![Linguagens2](https://skillicons.dev/icons?i=git,github,vscode,windows,docker,discord)](https://skillicons.dev)
-[![Linguagens2](https://skillicons.dev/icons?i=instagram)](https://instagram.com/_yoshizin_)
+[![Linguagens2](https://skillicons.dev/icons?i=git,github,vscode,windows,docker)](https://skillicons.dev)
 
 ---
 ### Social Space
-[![discord](https://github.com/user-attachments/assets/8faefdf7-f740-402b-82fc-b64e405f27e8)]("https://discord.gg/fZZ8eYFHhJ")
-[![email](https://github.com/user-attachments/assets/cd4d64e4-4493-404b-ac6f-d3107fbd9766)](mailto:joaojoaopedro817@gmail.com)
+[![discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/Dkb6unXdtR)
+[![instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/_yoshizin_)
+[![Email](https://skillicons.dev/icons?i=gmail)](mailto:joaojoaopedro817@gmail.com)
