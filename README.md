@@ -17,6 +17,7 @@ Hobbies: Play Games, Sleep, Programming.
 
 [![Linguagens1](https://skillicons.dev/icons?i=html,css,js,typescript,python,react,nodejs,mysql)](https://skillicons.dev) 
 [![Linguagens2](https://skillicons.dev/icons?i=git,github,vscode,windows,docker,discord)](https://skillicons.dev)
+[![Linguagens2](https://skillicons.dev/icons?i=instagram)](https://instagram.com/_yoshizin_)
 
 ---
 ### Social Space
