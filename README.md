@@ -10,7 +10,7 @@ Learning: Javascript and NodeJS
 Languages: Portuguese, spanish and english
 Hobbies: Play Games, Sleep, Programming.
 ```
-### Me interesso por Desenvolvimento FullStack e CyberSecurity, atualmente estudando JS e NodeJS, e futuramente pretendo aprender C++ para jogos, Java para backend legado e melhorar meu codigo em Python
+### Me interesso por Desenvolvimento FullStack e CyberSecurity, atualmente estudando JS e NodeJS, e futuramente pretendo aprender C++ para jogos, e melhorar meu codigo em Python
 
 ---
 ### Linguagens e Ferramentas
