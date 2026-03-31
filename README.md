@@ -20,6 +20,6 @@ Hobbies: Play Games, Sleep, Programming.
 
 ---
 ### Social Space
-[![discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/Dkb6unXdtR)
+[![discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/yQSDKnXram)
 [![instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/_yoshizin_)
 [![Email](https://skillicons.dev/icons?i=gmail)](mailto:joaojoaopedro817@gmail.com)
