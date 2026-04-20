@@ -10,12 +10,12 @@ Learning: Javascript and NodeJS
 Languages: Portuguese, spanish and english
 Hobbies: Play Games, Sleep, Programming.
 ```
-### Me interesso por Desenvolvimento FullStack e CyberSecurity, atualmente estudando JS e NodeJS, e futuramente pretendo aprender C++ para jogos, e melhorar meu codigo em Python
+### Me interesso por Desenvolvimento Backend e CyberSecurity, atualmente estudando JS e NodeJS, e futuramente pretendo aprender C# para jogos, e melhorar meu codigo em Python
 
 ---
 ### Linguagens e Ferramentas
 
-[![Linguagens1](https://skillicons.dev/icons?i=html,css,js,typescript,python,react,nodejs,mysql)](https://skillicons.dev) 
+[![Linguagens1](https://skillicons.dev/icons?i=js,typescript,python,nodejs,mysql)](https://skillicons.dev) 
 [![Linguagens2](https://skillicons.dev/icons?i=git,github,vscode,windows,docker)](https://skillicons.dev)
 
 ---
